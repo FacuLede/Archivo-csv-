@@ -1,0 +1,300 @@
+Partida,Tiempo,Cantidad_palabras_a_adivinar,Nombre_del_evento,Nick,Genero,Edad,Estado,Palabra,Nivel
+0,1623626027.067258,4,inicio_partida,pepe,Hombre,22,,,1
+0,1623626029.247274,4,intento,pepe,Hombre,22,ok,Banpresto World Figure Colosseum,1
+0,1623626030.322723,4,intento,pepe,Hombre,22,error,MIX,1
+0,1623626031.8071465,4,intento,pepe,Hombre,22,error,Naruto the Movie: Legend of the Stone of Gelel,1
+0,1623626033.5451875,4,intento,pepe,Hombre,22,ok,MIX,1
+0,1623626034.27357,4,intento,pepe,Hombre,22,error,Naruto the Movie: Legend of the Stone of Gelel,1
+0,1623626036.283599,4,intento,pepe,Hombre,22,ok,Magic Kaito 1412,1
+0,1623626036.9377415,4,intento,pepe,Hombre,22,ok,Naruto the Movie: Legend of the Stone of Gelel,1
+0,1623626038.8530748,4,fin,pepe,Hombre,22,finalizada,,1
+1,1623626039.8743012,4,inicio_partida,pepe,Hombre,22,,,1
+1,1623626041.0206912,4,intento,pepe,Hombre,22,error,Banpresto World Figure Colosseum,1
+1,1623626042.595151,4,intento,pepe,Hombre,22,error,Naruto the Movie: Legend of the Stone of Gelel,1
+1,1623626044.2323465,4,intento,pepe,Hombre,22,error,MIX,1
+1,1623626046.1921577,4,intento,pepe,Hombre,22,error,Banpresto World Figure Colosseum,1
+1,1623626048.1305838,4,intento,pepe,Hombre,22,ok,Magic Kaito 1412,1
+1,1623626049.110241,4,intento,pepe,Hombre,22,ok,Banpresto World Figure Colosseum,1
+1,1623626049.8958569,4,intento,pepe,Hombre,22,error,Naruto the Movie: Legend of the Stone of Gelel,1
+1,1623626052.843161,4,intento,pepe,Hombre,22,error,MIX,1
+1,1623626054.4843392,4,intento,pepe,Hombre,22,ok,MIX,1
+1,1623626055.0281618,4,intento,pepe,Hombre,22,ok,Naruto the Movie: Legend of the Stone of Gelel,1
+1,1623626056.6569047,4,fin,pepe,Hombre,22,finalizada,,1
+2,1623626057.7222288,4,inicio_partida,pepe,Hombre,22,,,1
+2,1623626058.7372413,4,intento,pepe,Hombre,22,error,MIX,1
+2,1623626060.5065682,4,intento,pepe,Hombre,22,error,MIX,1
+2,1623626062.355547,4,intento,pepe,Hombre,22,ok,MIX,1
+2,1623626063.439146,4,intento,pepe,Hombre,22,error,Magic Kaito 1412,1
+2,1623626065.419562,4,intento,pepe,Hombre,22,ok,Magic Kaito 1412,1
+2,1623626066.1614203,4,intento,pepe,Hombre,22,error,Naruto the Movie: Legend of the Stone of Gelel,1
+2,1623626067.7732923,4,intento,pepe,Hombre,22,ok,Banpresto World Figure Colosseum,1
+2,1623626068.5265746,4,intento,pepe,Hombre,22,ok,Naruto the Movie: Legend of the Stone of Gelel,1
+2,1623626070.2504358,4,fin,pepe,Hombre,22,finalizada,,1
+3,1623626099.2180438,2,inicio_partida,asdasd,Mujer,23,,,0
+3,1623626100.1288013,2,intento,asdasd,Mujer,23,error,Orange,0
+3,1623626102.3481739,2,intento,asdasd,Mujer,23,error,Cat God,0
+3,1623626103.9811683,2,intento,asdasd,Mujer,23,ok,Orange,0
+3,1623626104.5306315,2,intento,asdasd,Mujer,23,ok,Cat God,0
+3,1623626105.7572274,2,fin,asdasd,Mujer,23,finalizada,,0
+4,1623626106.2183483,2,inicio_partida,asdasd,Mujer,23,,,0
+4,1623626107.1721945,2,intento,asdasd,Mujer,23,error,Cat God,0
+4,1623626109.5302413,2,intento,asdasd,Mujer,23,ok,Cat God,0
+4,1623626110.2124114,2,intento,asdasd,Mujer,23,ok,Orange,0
+4,1623626111.3128314,2,fin,asdasd,Mujer,23,finalizada,,0
+5,1623626111.7923648,2,inicio_partida,asdasd,Mujer,23,,,0
+5,1623626112.5422692,2,intento,asdasd,Mujer,23,error,Cat God,0
+5,1623626115.4566605,2,intento,asdasd,Mujer,23,ok,Orange,0
+5,1623626116.2072444,2,intento,asdasd,Mujer,23,ok,Cat God,0
+5,1623626117.2684112,2,fin,asdasd,Mujer,23,finalizada,,0
+6,1623626135.399336,8,inicio_partida,pipo,Hombre,23,,,2
+6,1623626136.698327,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626138.5553384,8,intento,pipo,Hombre,23,error,Fullmetal Alchemist: Brotherhood,2
+6,1623626140.3795524,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626142.0875804,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626143.7132108,8,intento,pipo,Hombre,23,error,Nobunaga Concerto,2
+6,1623626145.553635,8,intento,pipo,Hombre,23,ok,Re:ZERO -Starting Life in Another World- SHORTS,2
+6,1623626146.9184015,8,intento,pipo,Hombre,23,error,YuruYuri,2
+6,1623626148.5011961,8,intento,pipo,Hombre,23,error,Fullmetal Alchemist: Brotherhood,2
+6,1623626150.6320434,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626152.3197045,8,intento,pipo,Hombre,23,ok,YuruYuri,2
+6,1623626153.3042123,8,intento,pipo,Hombre,23,error,THE [email protected] CINDERELLA GIRLS,2
+6,1623626155.004188,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626156.7586741,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626158.5436802,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626160.2271912,8,intento,pipo,Hombre,23,error,THE [email protected] CINDERELLA GIRLS,2
+6,1623626161.766391,8,intento,pipo,Hombre,23,error,Fullmetal Alchemist: Brotherhood,2
+6,1623626164.070231,8,intento,pipo,Hombre,23,error,Nobunaga Concerto,2
+6,1623626166.093351,8,intento,pipo,Hombre,23,error,THE [email protected] CINDERELLA GIRLS,2
+6,1623626168.0456088,8,intento,pipo,Hombre,23,ok,Nobunaga Concerto,2
+6,1623626169.4304357,8,intento,pipo,Hombre,23,error,Naruto Shippuden the Movie: The Will of Fire,2
+6,1623626171.271347,8,intento,pipo,Hombre,23,ok,THE [email protected] CINDERELLA GIRLS,2
+6,1623626172.1502552,8,intento,pipo,Hombre,23,error,Fullmetal Alchemist: Brotherhood,2
+6,1623626174.2333755,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626176.1912675,8,intento,pipo,Hombre,23,error,Naruto Shippuden the Movie: The Will of Fire,2
+6,1623626178.7701879,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626180.656228,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626182.586043,8,intento,pipo,Hombre,23,ok,Fullmetal Alchemist: Brotherhood,2
+6,1623626183.3139408,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626184.995033,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626186.7222228,8,intento,pipo,Hombre,23,ok,Naruto Shippuden the Movie: The Will of Fire,2
+6,1623626187.8234663,8,intento,pipo,Hombre,23,error,Hitoribocchi no Marumaruseikatsu,2
+6,1623626189.9002078,8,intento,pipo,Hombre,23,error,The Quintessential Quintuplets,2
+6,1623626192.3037407,8,intento,pipo,Hombre,23,ok,The Quintessential Quintuplets,2
+6,1623626193.4991412,8,intento,pipo,Hombre,23,ok,Hitoribocchi no Marumaruseikatsu,2
+6,1623626194.9601405,8,fin,pipo,Hombre,23,finalizada,,2
+7,1623626340.20629,4,inicio_partida,pepe,Hombre,22,,,1
+7,1623626341.4787538,4,intento,pepe,Hombre,22,error,I've Always Liked You,1
+7,1623626343.8502505,4,intento,pepe,Hombre,22,error,Kamisama Dolls,1
+7,1623626345.6431446,4,intento,pepe,Hombre,22,error,I've Always Liked You,1
+7,1623626347.3272023,4,intento,pepe,Hombre,22,ok,Kamisama Dolls,1
+7,1623626348.95135,4,fin,pepe,Hombre,22,abandonada,,1
+8,1623626970.797595,8,inicio_partida,pipo,Hombre,23,,,2
+8,1623626972.8738637,8,intento,pipo,Hombre,23,error,Gingitsune: Messenger Fox of the Gods,2
+8,1623626974.8422463,8,intento,pipo,Hombre,23,error,Usagi Drop,2
+8,1623626976.4363341,8,intento,pipo,Hombre,23,error,Road To Ninja -Naruto the Movie,2
+8,1623626978.0221953,8,intento,pipo,Hombre,23,error,Road To Ninja -Naruto the Movie,2
+8,1623626979.6411884,8,intento,pipo,Hombre,23,error,Gingitsune: Messenger Fox of the Gods,2
+8,1623626981.4224648,8,intento,pipo,Hombre,23,ok,Gingitsune: Messenger Fox of the Gods,2
+8,1623626982.8807063,8,fin,pipo,Hombre,23,abandonada,,2
+9,1623627034.162665,8,inicio_partida,pipo,Hombre,23,,,2
+9,1623627036.8258204,8,intento,pipo,Hombre,23,error,Golden Time,2
+9,1623627038.5619273,8,intento,pipo,Hombre,23,error,Golden Time,2
+9,1623627040.4263675,8,intento,pipo,Hombre,23,error,Interviews with Monster Girls,2
+9,1623627042.998722,8,intento,pipo,Hombre,23,error,The Royal Tutor,2
+9,1623627045.0834174,8,intento,pipo,Hombre,23,error,The Royal Tutor,2
+9,1623627046.8823428,8,intento,pipo,Hombre,23,error,Slam Dunk (Dub),2
+9,1623627048.765368,8,intento,pipo,Hombre,23,error,Servant x Service,2
+9,1623627050.5704727,8,intento,pipo,Hombre,23,ok,Interviews with Monster Girls,2
+10,1623630931.8584442,4,inicio_partida,pepe,Hombre,22,,,1
+10,1623630932.8512495,4,intento,pepe,Hombre,22,error,MIX,1
+10,1623630934.458842,4,intento,pepe,Hombre,22,error,Alice & Zoroku,1
+10,1623630936.0860476,4,intento,pepe,Hombre,22,ok,MIX,1
+10,1623630936.6741421,4,intento,pepe,Hombre,22,error,Gugure! Kokkuri-san,1
+10,1623630938.3160844,4,intento,pepe,Hombre,22,error,Alice & Zoroku,1
+10,1623630939.853328,4,intento,pepe,Hombre,22,ok,Gugure! Kokkuri-san,1
+10,1623630940.9114707,4,intento,pepe,Hombre,22,error,Alice & Zoroku,1
+10,1623630942.590505,4,intento,pepe,Hombre,22,ok,Nobunaga Concerto,1
+10,1623630943.60005,4,intento,pepe,Hombre,22,ok,Alice & Zoroku,1
+10,1623630945.063342,4,fin,pepe,Hombre,22,finalizada,,1
+11,1623631013.920096,4,inicio_partida,pepe,Hombre,22,,,1
+11,1623631015.0120873,4,intento,pepe,Hombre,22,error,Thermae Romae,1
+11,1623631016.5543797,4,intento,pepe,Hombre,22,error,You and Me 2,1
+11,1623631018.0987403,4,intento,pepe,Hombre,22,ok,Thermae Romae,1
+11,1623631018.884326,4,intento,pepe,Hombre,22,error,You and Me 2,1
+11,1623631020.4672422,4,intento,pepe,Hombre,22,ok,You and Me 2,1
+11,1623631021.186885,4,intento,pepe,Hombre,22,error,Saekano -How to Raise a Boring Girlfriend-,1
+11,1623631022.916082,4,intento,pepe,Hombre,22,ok,Shin Atashinchi,1
+11,1623631023.6814907,4,intento,pepe,Hombre,22,ok,Saekano -How to Raise a Boring Girlfriend-,1
+11,1623631025.485408,4,fin,pepe,Hombre,22,finalizada,,1
+12,1623631027.1229043,4,inicio_partida,pepe,Hombre,22,,,1
+12,1623631027.8518643,4,fin,pepe,Hombre,22,abandonada,,1
+13,1623631110.4067974,4,inicio_partida,pepe,Hombre,22,,,1
+13,1623631111.5785582,4,intento,pepe,Hombre,22,error,THE UNLIMITED Hyobu Kyosuke,1
+13,1623631113.224926,4,intento,pepe,Hombre,22,error,THE UNLIMITED Hyobu Kyosuke,1
+13,1623631115.0951693,4,intento,pepe,Hombre,22,error,GeGeGe no Kitaro,1
+13,1623631116.6624942,4,intento,pepe,Hombre,22,ok,THE UNLIMITED Hyobu Kyosuke,1
+13,1623631117.2374198,4,intento,pepe,Hombre,22,error,Rozen Maiden,1
+13,1623631118.9749522,4,intento,pepe,Hombre,22,error,Rozen Maiden,1
+13,1623631120.9078958,4,intento,pepe,Hombre,22,ok,Sabagebu!,1
+13,1623631121.607732,4,intento,pepe,Hombre,22,error,Rozen Maiden,1
+13,1623631123.5371456,4,intento,pepe,Hombre,22,ok,GeGeGe no Kitaro,1
+13,1623631124.2205324,4,intento,pepe,Hombre,22,ok,Rozen Maiden,1
+13,1623631129.3370085,4,fin,pepe,Hombre,22,finalizada,,1
+14,1623631237.7345405,4,inicio_partida,pepe,Hombre,22,,,1
+14,1623631238.8292763,4,intento,pepe,Hombre,22,error,Nobunaga Concerto,1
+14,1623631240.5430913,4,intento,pepe,Hombre,22,error,Slam Dunk,1
+14,1623631242.4025137,4,intento,pepe,Hombre,22,ok,Nobunaga Concerto,1
+14,1623631243.4301205,4,intento,pepe,Hombre,22,error,Zatch Bell!,1
+14,1623631244.9748125,4,intento,pepe,Hombre,22,error,Slam Dunk,1
+14,1623631246.5571697,4,intento,pepe,Hombre,22,error,Zatch Bell!,1
+14,1623631248.1363945,4,intento,pepe,Hombre,22,ok,Slam Dunk,1
+14,1623631249.264859,4,intento,pepe,Hombre,22,error,Zatch Bell!,1
+14,1623631251.4365754,4,intento,pepe,Hombre,22,error,Zatch Bell!,1
+14,1623631253.070461,4,intento,pepe,Hombre,22,ok,Zatch Bell!,1
+14,1623631253.747145,4,intento,pepe,Hombre,22,ok,Fire Force,1
+14,1623631271.5568123,4,fin,pepe,Hombre,22,finalizada,,1
+15,1623631586.0314434,4,inicio_partida,pepe,Hombre,22,,,1
+15,1623631587.9990513,4,intento,pepe,Hombre,22,error,"WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~",1
+15,1623631589.6661725,4,intento,pepe,Hombre,22,error,Gugure! Kokkuri-san,1
+15,1623631591.472233,4,intento,pepe,Hombre,22,error,Gugure! Kokkuri-san,1
+15,1623631593.5213966,4,intento,pepe,Hombre,22,ok,Gugure! Kokkuri-san,1
+15,1623631594.416821,4,intento,pepe,Hombre,22,error,MAJOR 2nd,1
+15,1623631596.4470766,4,intento,pepe,Hombre,22,error,"WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~",1
+15,1623631598.0394895,4,intento,pepe,Hombre,22,ok,MAJOR 2nd,1
+15,1623631599.3142378,4,intento,pepe,Hombre,22,error,"WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~",1
+15,1623631601.1912315,4,intento,pepe,Hombre,22,ok,Hamatora,1
+15,1623631601.9322026,4,intento,pepe,Hombre,22,ok,"WATAMOTE ~No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!~",1
+15,1623631603.9790297,4,fin,pepe,Hombre,22,finalizada,,1
+17,1623632031.7403712,4,inicio_partida,pepe,Hombre,22,,,1
+17,1623632032.875913,4,intento,pepe,Hombre,22,error,Genshiken,1
+17,1623632034.49867,4,intento,pepe,Hombre,22,error,TRINITY SEVEN,1
+17,1623632036.0796385,4,intento,pepe,Hombre,22,ok,KONOHANA KITAN,1
+17,1623632036.8132327,4,intento,pepe,Hombre,22,error,HaNaYaMaTa,1
+17,1623632038.5795639,4,intento,pepe,Hombre,22,error,Genshiken,1
+17,1623632041.338887,4,intento,pepe,Hombre,22,error,Genshiken,1
+17,1623632043.1288953,4,intento,pepe,Hombre,22,ok,TRINITY SEVEN,1
+17,1623632044.1538448,4,intento,pepe,Hombre,22,error,Genshiken,1
+17,1623632045.9512162,4,intento,pepe,Hombre,22,error,Genshiken,1
+17,1623632047.663194,4,intento,pepe,Hombre,22,ok,HaNaYaMaTa,1
+17,1623632048.3876934,4,intento,pepe,Hombre,22,ok,Genshiken,1
+17,1623632048.6906383,4,fin,pepe,Hombre,22,finalizada,,1
+18,1623893867.2204692,6,inicio_partida,zxczxc,Mujer,22,,,1
+18,1623893868.2716374,6,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World- SHORTS,1
+18,1623893870.3131025,6,intento,zxczxc,Mujer,22,error,We Rent Tsukumogami,1
+18,1623893871.8684645,6,intento,zxczxc,Mujer,22,error,Fushigi Yugi,1
+18,1623893873.4032955,6,intento,zxczxc,Mujer,22,ok,Battle Girls - Time Paradox,1
+18,1623893874.1031022,6,intento,zxczxc,Mujer,22,error,The Twelve Kingdoms,1
+18,1623893875.7113097,6,intento,zxczxc,Mujer,22,ok,We Rent Tsukumogami,1
+18,1623893876.5314035,6,intento,zxczxc,Mujer,22,error,Samurai Troopers,1
+18,1623893878.3468158,6,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World- SHORTS,1
+18,1623893879.8801198,6,intento,zxczxc,Mujer,22,ok,Samurai Troopers,1
+18,1623893881.0136178,6,intento,zxczxc,Mujer,22,error,The Twelve Kingdoms,1
+18,1623893882.3596015,6,intento,zxczxc,Mujer,22,error,Fushigi Yugi,1
+18,1623893883.9013546,6,intento,zxczxc,Mujer,22,ok,The Twelve Kingdoms,1
+18,1623893884.4723616,6,intento,zxczxc,Mujer,22,ok,Fushigi Yugi,1
+18,1623893885.0480354,6,intento,zxczxc,Mujer,22,ok,Re:ZERO -Starting Life in Another World- SHORTS,1
+18,1623893885.3503656,6,fin,zxczxc,Mujer,22,finalizada,,1
+19,1623893972.1824374,2,inicio_partida,zxczxc,Mujer,22,,,0
+19,1623893972.9387708,2,intento,zxczxc,Mujer,22,ok,Sengoku Collection (Parallel World Samurai),0
+19,1623893973.7312727,2,intento,zxczxc,Mujer,22,ok,Emma: A Victorian Romance,0
+19,1623893974.0427139,2,fin,zxczxc,Mujer,22,finalizada,,0
+20,1623894051.9007194,2,inicio_partida,pepe,Hombre,22,,,0
+20,1623894053.0013964,2,intento,pepe,Hombre,22,error,Drifters,0
+20,1623894054.600451,2,intento,pepe,Hombre,22,ok,The Twelve Kingdoms,0
+20,1623894054.9726958,2,intento,pepe,Hombre,22,ok,Drifters,0
+20,1623894055.2923102,2,fin,pepe,Hombre,22,finalizada,,0
+21,1623894064.5185513,2,inicio_partida,zxczxc,Mujer,22,,,0
+21,1623894065.0342426,2,intento,zxczxc,Mujer,22,error,Anisong Station,0
+21,1623894066.8242214,2,intento,zxczxc,Mujer,22,ok,Anisong Station,0
+21,1623894067.270731,2,intento,zxczxc,Mujer,22,ok,The Twelve Kingdoms,0
+21,1623894067.5733402,2,fin,zxczxc,Mujer,22,finalizada,,0
+22,1623894078.586262,2,inicio_partida,zxczxc,Mujer,22,,,0
+22,1623894088.8922741,2,fin,zxczxc,Mujer,22,timeout,,0
+23,1623894139.7792566,8,inicio_partida,zxczxc,Mujer,22,,,2
+23,1623894141.3020883,8,intento,zxczxc,Mujer,22,error,Fushigi Yugi,2
+23,1623894143.3037426,8,intento,zxczxc,Mujer,22,error,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894145.2636008,8,intento,zxczxc,Mujer,22,error,Fushigi Yugi,2
+23,1623894146.9920778,8,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World-,2
+23,1623894148.883912,8,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World-,2
+23,1623894151.162665,8,intento,zxczxc,Mujer,22,ok,Re:ZERO -Starting Life in Another World-,2
+23,1623894152.2344773,8,intento,zxczxc,Mujer,22,error,The Rising of the Shield Hero,2
+23,1623894153.8966386,8,intento,zxczxc,Mujer,22,error,No Game No Life,2
+23,1623894155.7487662,8,intento,zxczxc,Mujer,22,ok,ISEKAI QUARTET,2
+23,1623894156.9145782,8,intento,zxczxc,Mujer,22,error,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894158.6190913,8,intento,zxczxc,Mujer,22,error,Fushigi Yugi,2
+23,1623894160.220137,8,intento,zxczxc,Mujer,22,error,Fushigi Yugi,2
+23,1623894161.979271,8,intento,zxczxc,Mujer,22,ok,Fushigi Yugi,2
+23,1623894163.0483177,8,intento,zxczxc,Mujer,22,error,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894165.1390986,8,intento,zxczxc,Mujer,22,error,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894166.8960547,8,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World- SHORTS,2
+23,1623894168.35712,8,intento,zxczxc,Mujer,22,error,No Game No Life,2
+23,1623894170.0434706,8,intento,zxczxc,Mujer,22,ok,Fushigi Yugi OVA,2
+23,1623894170.8160229,8,intento,zxczxc,Mujer,22,error,No Game No Life,2
+23,1623894173.1323478,8,intento,zxczxc,Mujer,22,error,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894175.025014,8,intento,zxczxc,Mujer,22,ok,"Problem Children are Coming from Another World, aren't they?",2
+23,1623894175.7211142,8,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World- SHORTS,2
+23,1623894177.4030995,8,intento,zxczxc,Mujer,22,error,Re:ZERO -Starting Life in Another World- SHORTS,2
+23,1623894180.0235837,8,intento,zxczxc,Mujer,22,error,The Rising of the Shield Hero,2
+23,1623894182.052038,8,intento,zxczxc,Mujer,22,error,The Rising of the Shield Hero,2
+23,1623894184.201385,8,intento,zxczxc,Mujer,22,ok,Re:ZERO -Starting Life in Another World- SHORTS,2
+23,1623894185.0703244,8,intento,zxczxc,Mujer,22,error,No Game No Life,2
+23,1623894187.0431259,8,intento,zxczxc,Mujer,22,ok,No Game No Life,2
+23,1623894187.9613228,8,intento,zxczxc,Mujer,22,ok,The Rising of the Shield Hero,2
+23,1623894188.266546,8,fin,zxczxc,Mujer,22,finalizada,,2
+24,1623894238.8481054,10,inicio_partida,pepe,Hombre,22,,,3
+24,1623894239.8670292,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894241.6980767,10,intento,pepe,Hombre,22,error,SENGOKUCHOJYUGIGA,3
+24,1623894243.4795275,10,intento,pepe,Hombre,22,error,Izetta: The Last Witch,3
+24,1623894245.2626727,10,intento,pepe,Hombre,22,error,Izetta: The Last Witch,3
+24,1623894246.9260082,10,intento,pepe,Hombre,22,error,We Rent Tsukumogami,3
+24,1623894248.6222575,10,intento,pepe,Hombre,22,error,Ninja Girl & Samurai Master,3
+24,1623894250.3389986,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894252.2029881,10,intento,pepe,Hombre,22,ok,Folktales from Japan,3
+24,1623894253.3040125,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894255.2489333,10,intento,pepe,Hombre,22,error,Ninja Girl & Samurai Master,3
+24,1623894257.4299703,10,intento,pepe,Hombre,22,error,We Rent Tsukumogami,3
+24,1623894259.207354,10,intento,pepe,Hombre,22,error,SENGOKUCHOJYUGIGA,3
+24,1623894260.8288026,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894263.003012,10,intento,pepe,Hombre,22,error,Izetta: The Last Witch,3
+24,1623894264.8022225,10,intento,pepe,Hombre,22,ok,SENGOKUCHOJYUGIGA,3
+24,1623894266.4407694,10,intento,pepe,Hombre,22,error,Izetta: The Last Witch,3
+24,1623894268.483901,10,intento,pepe,Hombre,22,ok,Izetta: The Last Witch,3
+24,1623894270.1295435,10,intento,pepe,Hombre,22,error,The Twelve Kingdoms,3
+24,1623894271.7229366,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894273.3898194,10,intento,pepe,Hombre,22,error,White Album 2,3
+24,1623894275.42023,10,intento,pepe,Hombre,22,error,Ninja Girl & Samurai Master,3
+24,1623894277.3099046,10,intento,pepe,Hombre,22,error,White Album 2,3
+24,1623894279.1355088,10,intento,pepe,Hombre,22,ok,White Album 2,3
+24,1623894280.1217473,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894282.0059152,10,intento,pepe,Hombre,22,error,THE [email protected] Side M,3
+24,1623894283.900918,10,intento,pepe,Hombre,22,error,THE [email protected] Side M,3
+24,1623894285.884972,10,intento,pepe,Hombre,22,ok,THE [email protected] Side M,3
+24,1623894286.9698384,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894288.563767,10,intento,pepe,Hombre,22,error,The Twelve Kingdoms,3
+24,1623894290.260154,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894291.895963,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894293.5033636,10,intento,pepe,Hombre,22,ok,The Twelve Kingdoms,3
+24,1623894294.8360715,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894296.4138157,10,intento,pepe,Hombre,22,error,Meow Meow Japanese History,3
+24,1623894298.038482,10,intento,pepe,Hombre,22,error,Ninja Girl & Samurai Master,3
+24,1623894299.5861506,10,intento,pepe,Hombre,22,error,We Rent Tsukumogami,3
+24,1623894301.4024174,10,intento,pepe,Hombre,22,ok,Meow Meow Japanese History,3
+24,1623894302.5508635,10,intento,pepe,Hombre,22,error,We Rent Tsukumogami,3
+24,1623894304.2534344,10,intento,pepe,Hombre,22,ok,Ninja Girl & Samurai Master,3
+24,1623894305.5290802,10,intento,pepe,Hombre,22,error,We Rent Tsukumogami,3
+24,1623894307.700119,10,intento,pepe,Hombre,22,error,Lord Marksman and Vanadis,3
+24,1623894309.591299,10,intento,pepe,Hombre,22,ok,We Rent Tsukumogami,3
+24,1623894310.4144154,10,intento,pepe,Hombre,22,ok,Lord Marksman and Vanadis,3
+24,1623894310.7209885,10,fin,pepe,Hombre,22,finalizada,,3
+25,1623923076.2969189,4,inicio_partida,tres,Otro,15,,,1
+25,1623923077.4486647,4,intento,tres,Otro,15,ok,RH Plus,1
+25,1623923078.7222087,4,intento,tres,Otro,15,error,Steel Fisted Dragon,1
+25,1623923080.3626866,4,intento,tres,Otro,15,ok,Biyou Shounen Celebrity,1
+25,1623923081.6778173,4,intento,tres,Otro,15,error,Steel Fisted Dragon,1
+25,1623923083.481559,4,intento,tres,Otro,15,ok,Steel Fisted Dragon,1
+25,1623923084.5669446,4,intento,tres,Otro,15,ok,Karate Girl,1
+25,1623923084.8726435,4,fin,tres,Otro,15,finalizada,,1
+26,1623990672.3067145,2,inicio_partida,pepe,Hombre,22,,,0
+26,1623990673.267797,2,intento,pepe,Hombre,22,ok,School-Live!,0
+26,1623990674.1238112,2,intento,pepe,Hombre,22,ok,Sound of the Sky,0
+26,1623990674.4281776,2,fin,pepe,Hombre,22,finalizada,,0
